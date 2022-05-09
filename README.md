@@ -1,4 +1,4 @@
-# CartpoleDDPG
+## CartpoleDDPG
 
 This project is my own implementation of DDPG algorithm from the paper [Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971).
 
